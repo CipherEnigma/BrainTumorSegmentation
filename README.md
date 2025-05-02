@@ -25,7 +25,7 @@ U-Net is a CNN architecture specifically designed for biomedical image segmentat
 - **Skip connections** for feature reuse
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*T3sU1FEGzpeajNqYImCq3g.png" width="600"/>
+  <img src="unet.png" width="600"/>
 </p>
 
 ---
@@ -41,10 +41,9 @@ U-Net is a CNN architecture specifically designed for biomedical image segmentat
 
 ## Sample Output
 
-| MRI Input | Ground Truth Mask | Predicted Mask |
-|-----------|-------------------|----------------|
-| ![input]() | ![gt](assets/gt1.png) | ![pred](assets/pred1.png) |
-
+<p align="center">
+  <img src="output.png" width="600"/>
+</p>
 ---
 
 ## How to Use
